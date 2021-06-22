@@ -1,0 +1,31 @@
+.paginBtn{
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.paginBtn a {
+    width: 15px;
+    height: 15px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    background: rgb(243, 243, 243);
+    color: #000;
+    cursor: pointer;
+}
+
+.paginBtn a:hover{
+    color: white;
+    background: #007bff;
+    transition: 0.5s;
+    
+}
+.paginActive a{
+    color: white;
+    background: #007bff
+}

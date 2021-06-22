@@ -1,0 +1,59 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+img{
+    width: 60px;
+}
+.ResCard{
+    padding: 15px;
+    /* border-bottom: 1px solid rgb(0, 0, 0); */
+    
+}
+.fio{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(59, 107, 212);
+}
+.userImg{
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dddd{
+    border: 1px solid rgb(146, 143, 143);
+}
+.itmTable{
+  
+    border-collapse: collapse; 
+    font-size: 13px 
+}
+
+table, td{
+    text-align: center;
+}
+.GLitem{
+    border: 1px solid #777;
+}
+
+.forImg{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sz{
+    font-size: 15px;
+    line-height: 12px;
+}
+.iconsz{
+    size: 12px;
+}
+.cp{
+    cursor: pointer;
+}
